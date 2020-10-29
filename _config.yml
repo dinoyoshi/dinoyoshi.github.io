@@ -1,0 +1,32 @@
+# Dependencies
+#
+markdown:         redcarpet
+
+redcarpet:
+  extensions:   ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+# Permalinks, default is pretty
+permalink:        pretty
+
+highlighter:       pygments
+
+paginate:       10
+paginate_path:  "/index/page:num"
+
+# Server
+host:             0.0.0.0
+port:             9001
+baseurl:          /
+url:              http://localhost:9001
+encoding:         UTF-8
+
+exclude:
+  - "tools"
+
+# Multiple languages
+gems:           ['jekyll-multiple-languages']
+
+languages:          ['en', 'my']
+
+# If not config, the first of languages will be the default
+language_default:   'my'

@@ -1,0 +1,60 @@
+global:
+  english: English
+  malay: Malay
+pages:
+  home: Home
+  about: About
+  features: Features
+  pricing: Pricing
+  getstarted: Get Started
+  section11: Finance & invoicing made easy for SME
+  section11a: As a small business owner, you want to better manage your finance and transactions. Elona helps you to manage your invoices, accounts & smoothen your business operation.
+  section11b: We received your message and you'll hear from us soon. Thank You!
+  section12: START USING ELONA
+  section21: Integrated solution designed for SME
+  section21a: Manage your operation & sales with easy to use features
+  section21b: Finance
+  section21bi: No more manual processes and paperwork to manage your finance & accounting. Record & monitor your sales & expenses to get better view of your business health
+  section21c: Sales
+  section21ci: Send invoices, quotes, bills & purchase orders easily so you have better communications with your customers & suppliers. Everything can be viewed with a simple dashboard
+  section21d: POS
+  section21di: Our POS software helps manage your inventory and transactions at your store and it’s integrated with the financial software so your job becomes really hassle-free
+  section31: The easier way to manage your money
+  section31a: Small businesses have hard times in managing cash flow while being stay focused in their main business operation. Elona gives you the ability to have complete control on your finances & be more systematic so that you are more organized
+  section31b: Automate your accounting process
+  section31bi: No accounting knowledge? No problem! Elona guides you in your accounting journey for your business
+  section31c: Professional support anytime you need
+  section31ci: We are glad to assist you whenever you need for every problem you have
+  section31d: Improve relationship with your customers & suppliers
+  section31di: Happier relationships lead to better prospect for your business!
+  section41: Amazing Features
+  section41a: To help grow your business to the next level
+  section41b: Inventory management
+  section41bi: Keep track of your stocks in an efficient way with all the information needed
+  section41c:	Sales & Purchases
+  section41ci: Monitor all your sales & purchases with one simple dashboard
+  section41d: Financial Report
+  section41di: Get insights and analytics on your finance to give you better understanding of your business health
+  section41e: Tax overview
+  section41ei: All your taxes recorded makes your annual audit easier
+  section41f: Invoice tracking
+  section41fi: Invoices, quotes, bills & purchase orders all managed in one software
+  section41g: POS software
+  section41gi: Manage your retail store operation with POS software integrated with accounting
+  section51: Only RM50 a month with FREE support provided
+  section51a: All-in-One
+  section51bi: RM50
+  section51bii: Per Month
+  section51c: Complete solution
+  section51d: Accounting + POS software
+  section51e: Free support
+  section51f: Free update
+  section51g: FREE 30-DAY TRIAL
+  getintouch: Get in touch
+  getintoucha: Contact us today for any enquiries you have so we can help your business
+  getintouchb: We received your message and you'll hear from us soon. Thank You!
+  getintouchc: Send Message
+  socialmedia: Social Media
+  socialmediaa: See below where you can find us.
+titles:
+  index: Elona - Digital Business Platform
